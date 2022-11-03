@@ -1,5 +1,5 @@
 # Karu
-A small desktop mobile phone control wifi car using NodeMCU ESP8266 that can avoid edge. However, it would look too boring so I add expression to her through an OLED
+A small desktop IoT based car using NodeMCU ESP8266 that can avoid edge. However, it would look too boring so I add expression to her through an OLED
 
 ---
 ### Working updates:
